@@ -1,0 +1,11 @@
+--2020-03-26 08:44:48--  https://www.youtube.com/redirect?q=https%3A%2F%2Fraw.githubusercontent.com%2Flerocha%2Fchinook-database%2Fmaster%2FChinookDatabase%2FDataSources%2FChinook_MySql_AutoIncrementPKs.sql
+Resolving www.youtube.com (www.youtube.com)... 74.125.133.93, 74.125.133.190, 74.125.140.91, ...
+Connecting to www.youtube.com (www.youtube.com)|74.125.133.93|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘redirect?q=https:%2F%2Fraw.githubusercontent.com%2Flerocha%2Fchinook-database%2Fmaster%2FChinookDatabase%2FDataSources%2FChinook_MySql_AutoIncrementPKs.sql’
+
+                    redirect?q=https:%2F     [<=>                                                                              ]       0  --.-KB/s               redirect?q=https:%2F%2Fraw.githubusercon     [ <=>                                                                             ]  46.35K  --.-KB/s    in 0.001s  
+
+2020-03-26 08:44:48 (78.2 MB/s) - ‘redirect?q=https:%2F%2Fraw.githubusercontent.com%2Flerocha%2Fchinook-database%2Fmaster%2FChinookDatabase%2FDataSources%2FChinook_MySql_AutoIncrementPKs.sql’ saved [47461]
+
